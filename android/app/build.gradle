@@ -32,7 +32,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "co.appbrewery.micard"
+        applicationId "com.br.danhausen.micard"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode flutterVersionCode.toInteger()
